@@ -1,0 +1,1 @@
+# sample Hello world with rabbitmq running on docker
