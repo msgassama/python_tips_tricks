@@ -1,0 +1,26 @@
+- null
+- john
+- jane
+- smith
+- - nom: doe
+    prenom: john
+  - nom: doe
+    prenom: jane
+  - nom: smith
+    prenom: john
+- true
+- false
+- good
+- bad
+- dba:
+  - 19
+  - 20
+  - 12
+  english:
+  - 17
+  - 16
+  - 19
+  maths:
+  - 12
+  - 9
+  - 25

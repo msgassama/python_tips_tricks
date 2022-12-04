@@ -1,0 +1,16 @@
+1
+2
+3
+4
+---
+12: 12
+---
+tab: {key1: val1, key2: val2, key3: "val3"}
+---
+val: |
+  Hello world.
+  bonjour tout le monde.
+---
+'''bonjour
+good
+Salut'''

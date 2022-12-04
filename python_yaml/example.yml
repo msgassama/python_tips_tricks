@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  app:
+    build: .
+    volumes:
+      - .:/django
+    ports:
+      - 8000:8000
+    image: dj-app:v2
+    container_name: dj-co
+    command: python manage.py runserver 0.0.0.0:8000
