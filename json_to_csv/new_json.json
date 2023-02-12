@@ -1,0 +1,17 @@
+{
+  "people": [
+    {
+      "name": "John Smith",
+      "emails": [
+        "johnsmith@bogusemail.com",
+        "john.smith@work-place.com"
+      ],
+      "has_license": false
+    },
+    {
+      "name": "Jane Doe",
+      "emails": null,
+      "has_license": true
+    }
+  ]
+}
